@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  font-size: 30px;
+  background-image: url(../image/mosaic.png);
+  color: red;
+  min-height: 100%;
+}
+.first {
+  flex: auto;
+}
